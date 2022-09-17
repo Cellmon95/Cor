@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("../fonts/JosefinSans-VariableFont_wght.ttf") format("truetype");
+}
+
+body{
+    font-family: "Josefin Sans";
+    background-color: #f3f3f3;
+    color: #313131;
+}
+
+main {
+    padding: 36px 24px;
+}
